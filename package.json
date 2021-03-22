@@ -1,0 +1,19 @@
+{
+  "name": "node-react",
+  "version": "1.0.0",
+  "description": "Projeto Criado em Node e React",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cahguimaraes/Node-React.git"
+  },
+  "author": "Caroline Guimarães",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cahguimaraes/Node-React/issues"
+  },
+  "homepage": "https://github.com/cahguimaraes/Node-React#readme"
+}
