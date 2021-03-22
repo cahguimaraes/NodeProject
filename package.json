@@ -15,5 +15,13 @@
   "bugs": {
     "url": "https://github.com/cahguimaraes/Node-React/issues"
   },
-  "homepage": "https://github.com/cahguimaraes/Node-React#readme"
+  "homepage": "https://github.com/cahguimaraes/Node-React#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongodb": "^3.6.5",
+    "mongoose": "^5.12.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
 }
