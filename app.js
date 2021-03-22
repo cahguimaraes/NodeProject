@@ -8,5 +8,3 @@ app.get("/", (res) => { //configurando a rota para o método GET Default
         autor: "Caroline Guimarães"
     });
 });
-
-
