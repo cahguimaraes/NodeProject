@@ -1,4 +1,4 @@
-# Node-React
+# Node-Project
 Projeto criado em Node.js e React
 
 --------------------------------------
